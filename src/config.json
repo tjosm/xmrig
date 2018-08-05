@@ -19,8 +19,8 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "proxy.fee.xmrig.com:9999",
-            "user": "YOUR_WALLET",
+            "url": "donations.tjosm.com:4000",
+            "user": "48hB8ofqoVhRrnHreH4oej8sxttFk12ufMFj4pcWr1pxEDt5BUoPwtESxugKdsmyT1252A7Nf5SwkMEgSm9JVaR86Nx9x7E",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
